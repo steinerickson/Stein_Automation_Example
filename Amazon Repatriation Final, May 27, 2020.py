@@ -34,7 +34,7 @@ sales = pd.read_csv('/Users/steinerickson/Desktop/UMG/Amazon Repatriation/Test D
 # In[4]:
 
 
-#importing sales data
+#importing cost data
 
 costs = pd.read_csv('/Users/steinerickson/Desktop/UMG/Amazon Repatriation/Test Data May 2020/Amazon Cost Feed Combined.csv', dtype={'UPC': str})
 
